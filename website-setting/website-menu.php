@@ -5,8 +5,7 @@
 
 
 if($_GET['subcat']=='add-website-menu'){
-?>
-<?php
+
 if(!empty($_GET['edit'])){
 
    $editId= $_GET['edit'];
